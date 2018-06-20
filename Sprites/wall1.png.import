@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/shadow.png-bbcdb9fc69648a3209a8b47b533ef9a3.stex"
+path="res://.import/wall1.png-2b5c7fdff4d22282b057fef16c926cb8.stex"
 
 [deps]
 
-source_file="res://Sprites/shadow.png"
-source_md5="de27ea7a32d83344b854b9749395d0f4"
+source_file="res://Sprites/wall1.png"
+source_md5="67184fad96df474f1168af0bc662df31"
 
-dest_files=[ "res://.import/shadow.png-bbcdb9fc69648a3209a8b47b533ef9a3.stex" ]
-dest_md5="053cb3f05760531cbdbe632cec4ecd04"
+dest_files=[ "res://.import/wall1.png-2b5c7fdff4d22282b057fef16c926cb8.stex" ]
+dest_md5="a67d36ad6d55d7545b2b3d10a10c8a41"
 
 [params]
 
